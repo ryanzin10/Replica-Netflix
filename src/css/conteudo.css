@@ -48,3 +48,28 @@
     cursor: pointer;
     font-size: 28px;
 }
+
+.parte2{
+    background: rgba(0, 0, 0, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 70px 120px;
+}
+
+.parte2 .titulo2{
+    padding-right: 20px;
+}
+
+.parte2 .animacao{
+    border-radius: 8px;
+}
+
+.parte2 h1{
+    font-size: 50px;
+}
+
+.parte2 h2{
+    font-size: 30px;
+    font-weight: 400;
+}
